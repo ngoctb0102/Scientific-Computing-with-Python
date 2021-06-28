@@ -1,0 +1,15 @@
+// make dict
+dict = dict()
+// counting !! 
+count = dict()
+names = [...]
+for name in names :
+   if name not in count:
+       count[name] = 1
+   else:
+       count[name]+=1
+// for name in names:
+//    count[name] = count.get(name, 0) + 1
+// can use keys(), values() or items to get
+// alot item 
+// for a,b in _

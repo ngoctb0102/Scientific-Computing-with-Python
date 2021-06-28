@@ -1,0 +1,5 @@
+// using open to use file !
+file = open(filename,mode)
+// reading file is store as a list of line
+// to read all file use read()
+file.read()
