@@ -1,0 +1,10 @@
+^ : beginning of a line
+$: end of the line
+. : any char
+\s : white space
+\S : non-whitrspace
+* : repeat char zero or more tie
++ : repeat char 1 or more time
+[abcd] : match a single char
+[^XYZ] not in the list
+[a-z,0-9] in rangr

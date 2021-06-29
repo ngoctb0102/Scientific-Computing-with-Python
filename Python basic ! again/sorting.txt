@@ -1,0 +1,4 @@
+// sorted(item, reverse = ...)
+// sort a tuple
+// if reverse = true -> reverse
+// list [x for x in l]
