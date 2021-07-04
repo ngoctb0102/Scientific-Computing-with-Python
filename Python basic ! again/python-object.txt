@@ -1,0 +1,17 @@
+// dir() : command list
+// type() : something about a variable
+// make a simple class
+// class name :
+class simpleClass:
+   //  var
+   x = ...
+   // constructor
+   def __init__(self) :
+   //method
+   def methodName(self):
+   //destructor
+   def __del__(self):
+// make a class extend simpleClass
+class exClass(simpleClass):
+   y = ...
+   
